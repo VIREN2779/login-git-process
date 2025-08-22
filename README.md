@@ -17,3 +17,8 @@ Follow these steps to remove old GitHub credentials and configure a new GitHub a
 
 ### 4. ⚙️ Set Git Commit Author Info
 Configure Git with your new account details (this only affects commit metadata, not authentication):
+
+```bash
+git config --global user.name "your-github-username"
+git config --global user.email "your-email@example.com"
+```
