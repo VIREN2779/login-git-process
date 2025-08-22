@@ -14,3 +14,6 @@ Follow these steps to remove old GitHub credentials and configure a new GitHub a
 - Click on the **Account icon** again.
 - Select **"Sign in with GitHub"**.
 - Complete the authentication process in the browser.
+
+### 4. ⚙️ Set Git Commit Author Info
+Configure Git with your new account details (this only affects commit metadata, not authentication):
