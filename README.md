@@ -22,3 +22,5 @@ Configure Git with your new account details (this only affects commit metadata, 
 git config --global user.name "your-github-username"
 git config --global user.email "your-email@example.com"
 ```
+
+### 5. when new commit `login using browser`
