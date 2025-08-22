@@ -9,3 +9,8 @@ Follow these steps to remove old GitHub credentials and configure a new GitHub a
 - Open **Visual Studio Code**.
 - Click on the **Account icon** in the lower-left corner.
 - Select **"Sign Out"** from the GitHub account listed.
+
+### 3. 🔐 Sign In with a New GitHub Account
+- Click on the **Account icon** again.
+- Select **"Sign in with GitHub"**.
+- Complete the authentication process in the browser.
